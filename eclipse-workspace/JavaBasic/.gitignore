@@ -1,0 +1,23 @@
+# Bỏ qua các file biên dịch Java
+*.class
+
+# Bỏ qua thư mục bin/
+bin/
+
+# Bỏ qua thư mục của các IDE
+.idea/
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua các file hệ thống của macOS
+.DS_Store
+
+# Bỏ qua file cấu hình của IntelliJ IDEA
+*.iml
+
+# Bỏ qua file tạm thời
+*.swp
+*.bak
+*.tmp
+ECHO is on.
